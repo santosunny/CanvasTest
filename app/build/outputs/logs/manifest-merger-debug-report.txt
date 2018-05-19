@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\018d8be681ff50cb4b80a809871db0d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\647bdcb8e3189f113cc53b8d5aec5696\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e8b8fbe88a42e2adad2547d156fa827a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\521362f119e1ceb2729bdf76b1815515\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6dac138709b3230d48fcece3f056d67f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f2fe80275423df11293bc22e9f251b11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c3559c72a0832457a8aacb802f3437cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a5bcd9241ec1befbc5a87d1b56c79309\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\34db1d5ac7db65164869e56c4ff363a1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aefbe2752fe34dcf613d8e370050ff47\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11b8c24abebbe43e1be32412497f70c9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b69bbafa3fa8bdc52a30e42be7e2ffc\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\647bdcb8e3189f113cc53b8d5aec5696\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\647bdcb8e3189f113cc53b8d5aec5696\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.santos.canvastest.MainActivity
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:12:9-50
+	android:name
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:12:19-47
+activity#com.example.santos.canvastest.Main2Activity
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:13:9-51
+	android:name
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:13:19-48
+activity#com.example.santos.canvastest.Main3Activity
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:14:9-51
+	android:name
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:14:19-48
+activity#com.example.santos.canvastest.HomeActivity
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.santos.canvastest.Main4Activity
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:22:19-48
+activity#com.example.santos.canvastest.Main5Activity
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:23:19-48
+activity#com.example.santos.canvastest.Main6Activity
+ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml:24:19-48
+uses-sdk
+INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\018d8be681ff50cb4b80a809871db0d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\018d8be681ff50cb4b80a809871db0d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\647bdcb8e3189f113cc53b8d5aec5696\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\647bdcb8e3189f113cc53b8d5aec5696\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e8b8fbe88a42e2adad2547d156fa827a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e8b8fbe88a42e2adad2547d156fa827a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\521362f119e1ceb2729bdf76b1815515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\521362f119e1ceb2729bdf76b1815515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6dac138709b3230d48fcece3f056d67f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6dac138709b3230d48fcece3f056d67f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f2fe80275423df11293bc22e9f251b11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f2fe80275423df11293bc22e9f251b11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c3559c72a0832457a8aacb802f3437cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c3559c72a0832457a8aacb802f3437cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a5bcd9241ec1befbc5a87d1b56c79309\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a5bcd9241ec1befbc5a87d1b56c79309\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\34db1d5ac7db65164869e56c4ff363a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\34db1d5ac7db65164869e56c4ff363a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aefbe2752fe34dcf613d8e370050ff47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aefbe2752fe34dcf613d8e370050ff47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11b8c24abebbe43e1be32412497f70c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11b8c24abebbe43e1be32412497f70c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b69bbafa3fa8bdc52a30e42be7e2ffc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Santos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b69bbafa3fa8bdc52a30e42be7e2ffc\AndroidManifest.xml:20:5-44
+INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Repo\CanvasTest\app\src\main\AndroidManifest.xml

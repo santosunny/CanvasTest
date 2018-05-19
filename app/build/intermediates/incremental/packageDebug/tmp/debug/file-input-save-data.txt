@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat May 19 10:45:20 CST 2018
+1.base=C\:\\Repo\\CanvasTest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Repo\\CanvasTest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27
+1.path=classes.dex
